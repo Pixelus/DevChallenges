@@ -9,4 +9,4 @@ Responsive Web Development with HTML, CSS, Responsive, Grid, Flexbox and Git.
 
     Create a 404 not found page following the [design](https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=1%3A4). The page should be responsive.
 
-    User story: I can see a page following the given design
+        User story: I can see a page following the given design
