@@ -11,4 +11,4 @@ Responsive Web Development with HTML, CSS, Responsive, Grid, Flexbox and Git.
 
         User story: I can see a page following the given design
     
-    Deployment : [404 Not Found](https://objective-heisenberg-7d14c2.netlify.app/)
+    Deployment: [404 Not Found](https://objective-heisenberg-7d14c2.netlify.app/)
